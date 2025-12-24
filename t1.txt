@@ -16,4 +16,8 @@ gjgjg
 jgjj
 
 >>>>>>> da062dab257b37157a9c4ffde32c9a20375fa1b8
+<<<<<<< HEAD
 git 
+=======
+jgj
+>>>>>>> refs/remotes/origin/main
