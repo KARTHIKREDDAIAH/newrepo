@@ -10,4 +10,9 @@ kjgkjhjk
 101 jhgkjghilhljlj
 >>>>>>> Stashed changes
 hagga
+<<<<<<< HEAD
 gjgjg
+=======
+jgjj
+
+>>>>>>> da062dab257b37157a9c4ffde32c9a20375fa1b8
