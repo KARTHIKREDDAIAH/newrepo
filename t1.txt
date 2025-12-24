@@ -1,7 +1,11 @@
 karthik is my hero
+<<<<<<< Updated upstream
 
 hgjvjkgkjgjk 102 
 
 101 jhgkjghilhljlj
 kjgkjhjk
 
+=======
+101 jhgkjghilhljlj
+>>>>>>> Stashed changes
